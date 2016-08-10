@@ -1,0 +1,40 @@
+module.exports = {
+  attributes: {
+    nombre:{
+      type:'string'
+    },
+    descripcion:{
+      type:'string'
+    },
+    imagen:{
+      type:'string'
+    },
+    numeroPokemon:{
+      type:'string'
+    },
+    habilidad:{
+      type:'string'
+    },
+    habilidadOculta:{
+      type:'string'
+    },
+    color:{
+      type:'string'
+    },
+    velocidad:{
+      type:'string'
+    },
+    fortaleza:{
+      type:'string'
+    },
+    precision:{
+      type:'string'
+    },
+    resistencia:{
+      type:'string'
+    },
+    salto:{
+      type:'string'
+    }
+  }
+};

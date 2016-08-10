@@ -1,0 +1,26 @@
+.box{
+  position:absolute;
+  left: 5%;
+  right: 5%;
+  top: 15%;
+  background-image: url(http://www.capital.cl/wp-content/uploads/2016/07/pokemon-go2.jpg);
+}
+
+.box2 {
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    top: 15%;
+    background-image: url(https://forfanpokemon.files.wordpress.com/2016/07/pokemon_go___team_instinct_wallpaper__4k__by_veelarius-daaf23n.jpg);
+}
+
+/*Validacion css*/
+.messages {
+    color: #FA787E;
+}
+form.ng-submitted input.ng-invalid {
+    border-color: #FA787E;
+}
+form input.ng-invalid.ng-touched {
+    border-color: #FA787E;
+}
